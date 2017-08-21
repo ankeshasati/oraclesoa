@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Faults>
+   <Fault>
+      <severity>warning</severity>
+      <loc/>
+      <line>73</line>
+      <col/>
+      <file>BPEL/TestSecurityBPELProcess.bpel</file>
+      <name>BPEL/TestSecurityBPELProcess.bpel</name>
+      <fix>Types must be compatible.</fix>
+      <msg>The from-spec of "xsd:string" is not compatible with to-spec of "client:processResponse"</msg>
+   </Fault>
+</Faults>
